@@ -10,7 +10,7 @@ Git is a distributed version control system widely used for source code manageme
 - **Merging**: Combining changes from different branches. This process integrates the work done in separate branches.
 - **Conflict Resolution**: Occurs when changes in different branches conflict. Git provides tools to resolve these conflicts manually.
 
-![Branching and Merging](https://git-scm.com/book/en/v2/images/basic-branching-3-way-merge.png)
+![Branching and Merging](https://wac-cdn.atlassian.com/dam/jcr:213b39c8-2f43-4f42-bf0c-47e84d715aa0/03%20(2).svg?cdnVersion=576)
 *Branching and Merging in Git*
 
 ### Git Project Management Tools
@@ -56,48 +56,4 @@ Agile is a set of principles and values that promote iterative development, coll
 ![Scrum Ceremonies](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2018-04/ScrumFramework_web.png)
 *Scrum Ceremonies Overview*
 
-### Participation in Scrum Calls
-- **Effective Participation**: Be prepared, stay focused, and actively contribute to discussions. Respect time constraints and follow the meeting agenda.
-
-## Jira Management
-
-### Creating and Managing Jira Issues
-- **Creating Issues**: Define new tasks, bugs, or features in Jira. Provide clear descriptions, priority, and assign to appropriate team members.
-- **Tracking and Prioritizing**: Use Jira’s backlog and boards to track progress and prioritize work based on business value and urgency.
-
-![Creating an Issue in Jira](https://confluence.atlassian.com/legacyfs/online/723239517/creating_issue.png)
-*Creating an Issue in Jira*
-
-### Jira Reporting and Dashboards
-- **Reports**: Utilize Jira’s reporting tools to monitor team performance, sprint progress, and project status.
-- **Dashboards**: Customize dashboards to display key metrics and visualizations that help manage and track project activities.
-
-![Jira Dashboard](https://wac-cdn.atlassian.com/dam/jcr:2fa9a697-9467-4c7b-847d-99a6349bce09/05%20(1).svg?cdnVersion=576)
-*Jira Dashboard Example*
-
-## Managing Git Issues
-
-### Creating, Assigning, and Resolving Issues
-- **Creating Issues**: Document problems, enhancement requests, or tasks clearly in Git issue tracker.
-- **Assigning Issues**: Allocate issues to team members based on expertise and workload.
-- **Resolving Issues**: Work on the issue, commit changes, and close the issue once resolved.
-
-![GitHub Issues](https://miro.medium.com/max/2400/1*skDRukcVsX6BiI1wn2KNhQ.png)
-*GitHub Issues Interface*
-
-### Importance of Clear Issue Descriptions and Communication
-- **Clear Descriptions**: Provide detailed information, context, and steps to reproduce issues.
-- **Effective Communication**: Use comments and notifications to keep the team informed about issue status and updates.
-
-### Using Labels, Milestones, and Other Features
-- **Labels**: Categorize issues by type, priority, or other criteria.
-- **Milestones**: Group issues into specific goals or phases of the project.
-- **Other Features**: Utilize project boards, assignees, and due dates to manage issues effectively.
-
----
-
-By understanding these tools and practices, you'll be well-equipped to contribute effectively to software development projects. For further learning, explore documentation and tutorials available on the respective platforms.
-
-**Submission Deadline:** Please submit your completed document by tomorrow. Include relevant images or diagrams where appropriate to enhance your explanations.
-
-If you have any questions, please reach out for guidance. Happy learning!
+### Participation in Scrum
