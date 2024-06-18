@@ -3,7 +3,7 @@
 ## Git Version Control System
 Git is a powerful and widely used version control system that plays a crucial role in software development and other collaborative projects. It allows developers to track changes in their code, collaborate efficiently, and revert to previous versions if necessary. Git's core functionality revolves around the concept of a repository, which is a central location where all the project files and their history are stored.
 
-![Git Version Control System](image_placeholder)
+![Git Version Control System](https://raw.githubusercontent.com/saiharitha1310/IMAGE/main/download.jpg)
 *GitHub Project Dashboard*
 
 ## Branching in Git
