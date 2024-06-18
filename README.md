@@ -94,3 +94,10 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Milestones**: Group issues into specific goals or phases of the project.
 - **Other Features**: Utilize project boards, assignees, and due dates to manage issues effectively.
 
+---
+
+By understanding these tools and practices, you'll be well-equipped to contribute effectively to software development projects. For further learning, explore documentation and tutorials available on the respective platforms.
+
+**Submission Deadline:** Please submit your completed document by tomorrow. Include relevant images or diagrams where appropriate to enhance your explanations.
+
+If you have any questions, please reach out for guidance. Happy learning!
