@@ -1,4 +1,4 @@
-
+# Self-Learning Document on Git Project Dashboard, Agile, Scrum Calls, and Jira Management
 
 ## Git Project Dashboard
 
@@ -10,7 +10,7 @@ Git is a distributed version control system widely used for source code manageme
 - **Merging**: Combining changes from different branches. This process integrates the work done in separate branches.
 - **Conflict Resolution**: Occurs when changes in different branches conflict. Git provides tools to resolve these conflicts manually.
 
-![Branching and Merging](https://via.placeholder.com/600x400?text=Branching+and+Merging+in+Git)
+![Branching and Merging](https://git-scm.com/book/en/v2/images/basic-branching-3-way-merge.png)
 *Branching and Merging in Git*
 
 ### Git Project Management Tools
@@ -18,7 +18,7 @@ Git is a distributed version control system widely used for source code manageme
 - **GitLab**: A platform providing Git repository management, continuous integration, and DevOps lifecycle tools.
 - **Bitbucket**: Another Git repository management tool offering features for collaboration and project management.
 
-![GitHub Project Dashboard](https://via.placeholder.com/600x400?text=GitHub+Project+Dashboard)
+![GitHub Project Dashboard](https://docs.github.com/assets/cb-20744/images/help/repository/repo-browser.png)
 *GitHub Project Dashboard*
 
 ## Agile Methodology
@@ -30,7 +30,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-![Agile Manifesto](https://via.placeholder.com/600x400?text=Agile+Manifesto)
+![Agile Manifesto](https://miro.medium.com/max/1400/1*3bUOwe0-Li8mr5EQSfoeYQ.png)
 *Agile Manifesto*
 
 ### Agile Frameworks
@@ -42,7 +42,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Scrum Master**: Facilitates Scrum ceremonies, removes impediments, and ensures the team follows Agile practices.
 - **Development Team**: Cross-functional group responsible for delivering the product increments.
 
-![Scrum Framework](https://via.placeholder.com/600x400?text=Scrum+Framework+Overview)
+![Scrum Framework](https://www.visual-paradigm.com/servlet/editor-content/scrum-framework-overview.png)
 *Scrum Framework Overview*
 
 ## Scrum Calls
@@ -53,7 +53,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Sprint Review**: Held at the end of the sprint to demonstrate the completed work to stakeholders and gather feedback.
 - **Sprint Retrospective**: Conducted after the Sprint Review to reflect on the past sprint, identify improvements, and plan for the next sprint.
 
-![Scrum Ceremonies](https://via.placeholder.com/600x400?text=Scrum+Ceremonies+Overview)
+![Scrum Ceremonies](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2018-04/ScrumFramework_web.png)
 *Scrum Ceremonies Overview*
 
 ### Participation in Scrum Calls
@@ -65,14 +65,14 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Creating Issues**: Define new tasks, bugs, or features in Jira. Provide clear descriptions, priority, and assign to appropriate team members.
 - **Tracking and Prioritizing**: Use Jira’s backlog and boards to track progress and prioritize work based on business value and urgency.
 
-![Creating an Issue in Jira](https://via.placeholder.com/600x400?text=Creating+an+Issue+in+Jira)
+![Creating an Issue in Jira](https://confluence.atlassian.com/legacyfs/online/723239517/creating_issue.png)
 *Creating an Issue in Jira*
 
 ### Jira Reporting and Dashboards
 - **Reports**: Utilize Jira’s reporting tools to monitor team performance, sprint progress, and project status.
 - **Dashboards**: Customize dashboards to display key metrics and visualizations that help manage and track project activities.
 
-![Jira Dashboard](https://via.placeholder.com/600x400?text=Jira+Dashboard+Example)
+![Jira Dashboard](https://support.crowdstrike.com/support/sfc/servlet.shepherd/version/download/06831000003vVTuAAM)
 *Jira Dashboard Example*
 
 ## Managing Git Issues
@@ -82,7 +82,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Assigning Issues**: Allocate issues to team members based on expertise and workload.
 - **Resolving Issues**: Work on the issue, commit changes, and close the issue once resolved.
 
-![GitHub Issues](https://via.placeholder.com/600x400?text=GitHub+Issues+Interface)
+![GitHub Issues](https://docs.github.com/assets/cb-20643/images/help/issues/issues-list.png)
 *GitHub Issues Interface*
 
 ### Importance of Clear Issue Descriptions and Communication
