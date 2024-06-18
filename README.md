@@ -10,7 +10,7 @@ Git is a distributed version control system widely used for source code manageme
 - **Merging**: Combining changes from different branches. This process integrates the work done in separate branches.
 - **Conflict Resolution**: Occurs when changes in different branches conflict. Git provides tools to resolve these conflicts manually.
 
-![Branching and Merging](https://git-scm.com/book/en/v2/images/basic-branching-3-way-merge.png)
+![Branching and Merging](https://wac-cdn.atlassian.com/dam/jcr:213b39c8-2f43-4f42-bf0c-47e84d715aa0/03%20(2).svg?cdnVersion=576)
 *Branching and Merging in Git*
 
 ### Git Project Management Tools
