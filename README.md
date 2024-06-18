@@ -27,9 +27,6 @@ Git is a distributed version control system widely used for source code manageme
 - **GitLab**: A platform providing Git repository management, continuous integration, and DevOps lifecycle tools.
 - **Bitbucket**: Another Git repository management tool offering features for collaboration and project management.
 
-![GitHub Project Dashboard](https://docs.github.com/assets/cb-20744/images/help/repository/repo-browser.png)
-*GitHub Project Dashboard*
-
 
 ## Agile Methodology
 
@@ -52,8 +49,8 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Scrum Master**: Facilitates Scrum ceremonies, removes impediments, and ensures the team follows Agile practices.
 - **Development Team**: Cross-functional group responsible for delivering the product increments.
 
-![Scrum Framework](https://github.com/saiharitha1310/IMAGE/blob/main/SCRUM.png)
-*Scrum Framework Overview*
+![Roles in Agile Teams](https://github.com/saiharitha1310/IMAGE/blob/main/Screenshot%202024-06-18%20221257.png)
+*Roles in Agile Teams Overview*
 
 ## Scrum Calls
 
@@ -63,7 +60,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Sprint Review**: Held at the end of the sprint to demonstrate the completed work to stakeholders and gather feedback.
 - **Sprint Retrospective**: Conducted after the Sprint Review to reflect on the past sprint, identify improvements, and plan for the next sprint.
 
-![Scrum Ceremonies](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2018-04/ScrumFramework_web.png)
+![Scrum Ceremonies](https://github.com/saiharitha1310/IMAGE/blob/main/SCRUM.png)
 *Scrum Ceremonies Overview*
 
 ### Participation in Scrum Calls
@@ -75,14 +72,12 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Creating Issues**: Define new tasks, bugs, or features in Jira. Provide clear descriptions, priority, and assign to appropriate team members.
 - **Tracking and Prioritizing**: Use Jira’s backlog and boards to track progress and prioritize work based on business value and urgency.
 
-![Creating an Issue in Jira](https://confluence.atlassian.com/legacyfs/online/723239517/creating_issue.png)
-*Creating an Issue in Jira*
 
 ### Jira Reporting and Dashboards
 - **Reports**: Utilize Jira’s reporting tools to monitor team performance, sprint progress, and project status.
 - **Dashboards**: Customize dashboards to display key metrics and visualizations that help manage and track project activities.
 
-![Jira Dashboard](https://support.crowdstrike.com/support/sfc/servlet.shepherd/version/download/06831000003vVTuAAM)
+![Jira Dashboard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG8OhOwXEAVg&psig=AOvVaw32DMDGu7e0l08fqqrEqp-R&ust=1718815697815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiQqdHN5YYDFQAAAAAdAAAAABAE)
 *Jira Dashboard Example*
 
 
