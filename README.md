@@ -77,7 +77,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Reports**: Utilize Jira’s reporting tools to monitor team performance, sprint progress, and project status.
 - **Dashboards**: Customize dashboards to display key metrics and visualizations that help manage and track project activities.
 
-![Jira Dashboard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG8OhOwXEAVg&psig=AOvVaw32DMDGu7e0l08fqqrEqp-R&ust=1718815697815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiQqdHN5YYDFQAAAAAdAAAAABAE)
+![Jira Dashboard](https://github.com/saiharitha1310/IMAGE/blob/main/Screenshot%202024-06-18%20222101.png)
 *Jira Dashboard Example*
 
 
