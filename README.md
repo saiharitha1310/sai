@@ -8,7 +8,7 @@ Git is a distributed version control system widely used for source code manageme
 ### Key Concepts
 1. **Branching in Git**: Creating a separate line of development within a project. Branches are used to develop features, fix bugs, or experiment with new ideas.
 
-   ![Branching in Git](https://git-scm.com/book/en/v2/images/branching-1.png)
+   ![Branching in Git](https://github.com/saiharitha1310/IMAGE/blob/main/360_F_497475123_YtIC8M306fNFzcysNec2XDvfDjaIhJQc.jpg)
    *Branching in Git*
 
 2. **Merging in Git**: Combining changes from different branches. This process integrates the work done in separate branches.
@@ -22,13 +22,14 @@ Git is a distributed version control system widely used for source code manageme
    *Conflict Resolution in Git*
 
 
-### Git Project Management Tools
+###Git Project Management Tools
 - **GitHub**: A web-based platform offering Git repositories, collaboration tools, and project management features like issues and pull requests.
 - **GitLab**: A platform providing Git repository management, continuous integration, and DevOps lifecycle tools.
 - **Bitbucket**: Another Git repository management tool offering features for collaboration and project management.
 
 ![GitHub Project Dashboard](https://docs.github.com/assets/cb-20744/images/help/repository/repo-browser.png)
 *GitHub Project Dashboard*
+
 
 ## Agile Methodology
 
@@ -39,7 +40,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-![Agile Manifesto](https://miro.medium.com/max/1400/1*3bUOwe0-Li8mr5EQSfoeYQ.png)
+![Agile Manifesto](https://github.com/saiharitha1310/IMAGE/blob/main/AGILE.png)
 *Agile Manifesto*
 
 ### Agile Frameworks
@@ -51,7 +52,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Scrum Master**: Facilitates Scrum ceremonies, removes impediments, and ensures the team follows Agile practices.
 - **Development Team**: Cross-functional group responsible for delivering the product increments.
 
-![Scrum Framework](https://www.visual-paradigm.com/servlet/editor-content/scrum-framework-overview.png)
+![Scrum Framework](https://github.com/saiharitha1310/IMAGE/blob/main/SCRUM.png)
 *Scrum Framework Overview*
 
 ## Scrum Calls
