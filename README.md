@@ -10,7 +10,7 @@ Git is a distributed version control system widely used for source code manageme
 - **Merging**: Combining changes from different branches. This process integrates the work done in separate branches.
 - **Conflict Resolution**: Occurs when changes in different branches conflict. Git provides tools to resolve these conflicts manually.
 
-![Branching and Merging](https://wac-cdn.atlassian.com/dam/jcr:213b39c8-2f43-4f42-bf0c-47e84d715aa0/03%20(2).svg?cdnVersion=576)
+![Branching and Merging](https://git-scm.com/book/en/v2/images/basic-branching-3-way-merge.png)
 *Branching and Merging in Git*
 
 ### Git Project Management Tools
@@ -18,7 +18,7 @@ Git is a distributed version control system widely used for source code manageme
 - **GitLab**: A platform providing Git repository management, continuous integration, and DevOps lifecycle tools.
 - **Bitbucket**: Another Git repository management tool offering features for collaboration and project management.
 
-![GitHub Project Dashboard](https://docs.github.com/assets/cb-20744/images/help/repository/repo-browser.png)
+![GitHub Project Dashboard](https://miro.medium.com/max/1400/1*JdNb1hTRbzL2qvXxt1nKFg.png)
 *GitHub Project Dashboard*
 
 ## Agile Methodology
@@ -30,7 +30,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-![Agile Manifesto](https://miro.medium.com/max/1400/1*3bUOwe0-Li8mr5EQSfoeYQ.png)
+![Agile Manifesto](https://upload.wikimedia.org/wikipedia/commons/0/0d/Agile_values_and_principles.png)
 *Agile Manifesto*
 
 ### Agile Frameworks
@@ -72,7 +72,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Reports**: Utilize Jira’s reporting tools to monitor team performance, sprint progress, and project status.
 - **Dashboards**: Customize dashboards to display key metrics and visualizations that help manage and track project activities.
 
-![Jira Dashboard](https://support.crowdstrike.com/support/sfc/servlet.shepherd/version/download/06831000003vVTuAAM)
+![Jira Dashboard](https://wac-cdn.atlassian.com/dam/jcr:2fa9a697-9467-4c7b-847d-99a6349bce09/05%20(1).svg?cdnVersion=576)
 *Jira Dashboard Example*
 
 ## Managing Git Issues
@@ -82,7 +82,7 @@ Agile is a set of principles and values that promote iterative development, coll
 - **Assigning Issues**: Allocate issues to team members based on expertise and workload.
 - **Resolving Issues**: Work on the issue, commit changes, and close the issue once resolved.
 
-![GitHub Issues](https://docs.github.com/assets/cb-20643/images/help/issues/issues-list.png)
+![GitHub Issues](https://miro.medium.com/max/2400/1*skDRukcVsX6BiI1wn2KNhQ.png)
 *GitHub Issues Interface*
 
 ### Importance of Clear Issue Descriptions and Communication
